@@ -7,21 +7,6 @@
 
 ```text
 Robotics_Projects_and_Solutions/
-├── slides/                   # 中英文课程课件（PPT）
-│   ├── 第一章 介绍
-│   ├── 第二章  进化计算
-│   ├── 第三章  人工神经网络
-│   ├── 第四章  模糊逻辑与模糊系统
-│   ├── 第五章  更多AI子集
-│   ├── 第六章  AI与工业4.0
-│   
-│   ├── 01-Introduction
-│   ├── 02-Evolutionary Computation
-│   ├── 03-Artificial Neural Network
-│   ├── 04-Fuzzy Logic
-│   ├── 05-More AI Subsets
-│   └── 06-AI and I4
-│
 ├── case_studies/             # 智能制造系统案例
 │   ├── 1_Shore_Power_Simulation
 │   ├── 2_MATLAB_Wood_Transport_Sustainability
