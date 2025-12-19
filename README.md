@@ -17,7 +17,7 @@ Tay, J., Li, N., Luo, L., Zhou, Z., Meng, W., Zhang, Q., … Lu, Y. (2025). Role
 
 ```text
 Robotics_Projects_and_Solutions/
-├── ppt/                     # 课程PPT章节
+├── 课程PPT
 │   ├── 01-Introduction               # 第一章 介绍
 │   ├── 02-Evolutionary_Computation  # 第二章 进化计算
 │   ├── 03-Artificial_Neural_Network # 第三章 人工神经网络
@@ -25,13 +25,13 @@ Robotics_Projects_and_Solutions/
 │   ├── 05-More_AI_Subsets           # 第五章 更多AI子集
 │   └── 06-AI_and_I4                 # 第六章 AI与工业4.0
 │
-├── case_studies/             # 智能制造系统案例
-│   ├── 1_Shore_Power_Simulation
-│   ├── 2_MATLAB_Wood_Transport_Sustainability
-│   ├── 3_Flap_Wing_Case
-│   ├── 4_Drone_Autonomous_Pollination
-│   ├── 5_UAV_Path_Planning_Simulation
-│   └── 6_Intelligent_Obstacle_Avoidance_for_Pollination
+├── 智能制造系统案例
+│   ├── 1 岸电供电系统的建模与仿真
+│   ├── 2 基于MATLAB的木材运输方案（再生木材）可持续发展任务
+│   ├── 3 扑翼案例
+│   ├── 4 使用微型飞行器的自主授粉路径规划
+│   ├── 5 无人机路径规划仿真
+│   └── 6 智能避障实现自主授粉
 │
 └── README.md
 
